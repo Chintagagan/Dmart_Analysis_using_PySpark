@@ -19,12 +19,13 @@ This project aims to create a data pipeline using PySpark to integrate and analy
 - **Python**: Programming language used for the pipeline
 - **CSV**: Data format for input datasets
 
-##Data Sources
+## Data Sources
 The following datasets are used in this project:
 
-products.csv: Contains product information (e.g., Product ID, Product Name, Category, Sub-category).
-sales.csv: Contains sales transaction details (e.g., Sale ID, Product ID, Customer ID, Quantity Sold, Sale Amount, Discount).
-customer.csv: Contains customer details (e.g., Customer ID, Customer Name, Age, Segment, Region, State, City).
+- **products.csv**: Contains product information (e.g., Product ID, Product Name, Category, Sub-category).
+- **sales.csv**: Contains sales transaction details (e.g., Sale ID, Product ID, Customer ID, Quantity Sold, Sale Amount, Discount).
+- **customer.csv**: Contains customer details (e.g., Customer ID, Customer Name, Age, Segment, Region, State, City).
+
 Ensure these CSV files are located in the same directory as your script or provide the appropriate file paths.
 
 
